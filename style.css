@@ -1,0 +1,78 @@
+
+
+
+.carousel-item {
+    padding: 40px;
+}
+
+
+#category{
+    margin-bottom: 20px;
+}
+.im{
+    text-align: center;
+}
+.see{
+  color: rgb(255, 196, 0);
+  text-align: right;
+}
+.see-all{
+    color: rgb(255, 196, 0);
+    text-align: right;
+    padding: ;
+}
+
+.card{
+    border: none;
+    border-radius: 7px;
+    box-shadow: 5px 5px 15px lightgray;
+}
+
+.buy-button{
+    background-color: black;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 7px
+}
+
+.card{
+    border: none;
+    border-radius: 7px;
+    box-shadow: 5px 5px 15px lightgray;
+    text-align: center;
+}
+.cata{
+    text-align: center;
+}
+
+.img{
+   text-align: center;
+}
+.be{
+    border: none;
+    border-radius: 2px;
+    box-shadow: 3px 3px 7px lightgray;
+    width:250px;
+    text-align: center;
+    float: right;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.beg:hover{
+    border: none;
+    border-radius: 2px;
+    box-shadow: 3px 3px 7px lightgray;
+    width:250px;
+    text-align: center;
+}
+.shoe{
+    border: none;
+    border-radius: 2px;
+    box-shadow:5px 5px 10px lightgray;
+    width:250px;
+    text-align: center;
+    float: right;
+    padding-left:10%;
+}
